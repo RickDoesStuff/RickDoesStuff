@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on school, no fun projects atm :(
-- 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on nothing atm
+- 🔭 I’m currently working on Cybersecurity Certs
+- 🌱 I’m currently working on my Fishing And Outdoors discord bot
 - 💬 Ask me about baseball
-- 📫 How to reach me: eja97@rutgers.edu
+- 📫 How to reach me: RickDoesStuff@gmail.com
 - ⚡ Fun fact: love to surf and snowboard
